@@ -1,3 +1,3 @@
-# Welcome to my Portfolio
+# 👋 Welcome to my portfolio
 
-This site was created using @kr-anurag 's template - https://github.com/kr-anurag/portfolio
+Huzzah!
