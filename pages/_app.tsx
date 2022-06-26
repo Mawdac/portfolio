@@ -31,39 +31,26 @@ function MyApp({ Component, pageProps }: AppProps) {
                 `}
       </Script>
       <NextSeo
-        title="Anurag | Frontend Developer"
-        titleTemplate="Anurag | Frontend Developer"
-        defaultTitle="Anurag | Frontend Developer"
-        description="Hey! I'm Anurag, A Frontend Developer, Blogger and a Student!"
+        title="EJ | DevOps Engineer"
+        titleTemplate="EJ | DevOps Engineer"
+        defaultTitle="EJ | DevOps Engineer"
+        description="Hey! I'm EJ, A DevOps Engineer, Disc Golfer and a Musician!"
         openGraph={{
-          url: "https://www.anurag.tech/",
-          title: "Anurag | Frontend Developer",
+          url: "https://maddawik.hashnode.dev/",
+          title: "EJ | DevOps Engineer",
           description:
-            "Hey! I'm Anurag, A Frontend Developer, Blogger and a Student!",
-          images: [
-            {
-              url: "https://res.cloudinary.com/ddum5vpp3/image/upload/v1643532760/og-image_dwcwhp.png",
-              width: 800,
-              height: 420,
-              alt: "Anurag | Frontend Developer",
-            },
-          ],
-        }}
-        twitter={{
-          handle: "@kr_anurag_",
-          site: "@kr_anurag_",
-          cardType: "summary_large_image",
+            "Hey! I'm EJ, A DevOps Engineer, Disc Golfer and a Musician!"
         }}
         additionalMetaTags={[
           {
             property: "keywords",
             content:
-              "Frontend Developer, anurag, anuragkr, Web Developer, web development, web developer, blogger, tech enthusiast, open source",
+              "DevOps Engineer, EJ, Maddawik, ci, cd, continuous integration, continuous development, tech enthusiast, open source, disc golf, music",
           },
         ]}
       />
       <Head>
-        <link rel="icon" type="image/png" href="/assests/avatar.png" />
+        <link rel="icon" type="image/png" href="/assets/avatar.png" />
       </Head>
       <Component {...pageProps} />
     </>
