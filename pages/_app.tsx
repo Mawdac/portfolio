@@ -36,7 +36,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         defaultTitle="EJ | DevOps Engineer"
         description="Hey! I'm EJ, A DevOps Engineer, Disc Golfer and a Musician!"
         openGraph={{
-          url: "https://maddawik.hashnode.dev/",
+          url: "https://portfolio-mawdac.vercel.app/",
           title: "EJ | DevOps Engineer",
           description:
             "Hey! I'm EJ, A DevOps Engineer, Disc Golfer and a Musician!"
@@ -45,7 +45,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           {
             property: "keywords",
             content:
-              "DevOps Engineer, EJ, Maddawik, ci, cd, continuous integration, continuous development, tech enthusiast, open source, disc golf, music",
+              "DevOps Engineer, EJ, Mawdac, ci, cd, continuous integration, continuous development, open source, disc golf, music, video games",
           },
         ]}
       />
