@@ -4,6 +4,7 @@ import {
   BsSpotify,
   MdEmail,
   AiOutlineGithub,
+  ImLinkedin2
 } from "../Misc/Icons.collection";
 
 import { Icon } from "../Misc/Icon.component";
@@ -15,6 +16,8 @@ const Contact: NextComponentType = () => {
 
       <div className="my-8 flex flex-row justify-center gap-x-4">
         <Icon icon={<AiOutlineGithub />} url="https://github.com/mawdac" />
+
+        <Icon icon={<ImLinkedin2 />} url="https://linkedin.com/in/edward-ej-reilly-722878a6" />
 
         <Icon icon={<MdEmail />} url="mailto:edwardreillycomputers@gmail.com" />
 
