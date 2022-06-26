@@ -34,8 +34,8 @@ const About: NextComponentType = () => {
       <div className="hidden custom:block">
         <Image
           src="/assets/avatar.png"
-          width="112"
-          height="112"
+          width="140"
+          height="140"
           className="rounded-full"
           alt="avatar"
         />
