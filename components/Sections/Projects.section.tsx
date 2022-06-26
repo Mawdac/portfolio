@@ -9,7 +9,7 @@ const Projects: NextComponentType = () => {
       <div className="my-8 flex flex-col items-center justify-center gap-10 sm:flex-row">
         <Link href="https://github.com/Mawdac/github-actions-sandbox" passHref>
           <a
-            className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#D8B4FE] to-[#818CF8] p-1 text-white duration-100 hover:scale-105"
+            className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#f94144] via-[#f3722c] to-[#f8961e] p-1 text-white duration-100 hover:scale-105"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -22,7 +22,7 @@ const Projects: NextComponentType = () => {
 
         <Link href="https://github.com/Mawdac/github-actions-sandcastle" passHref>
           <a
-            className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#BFAE48] to-[#78CDD7] p-1 text-white duration-100 hover:scale-105"
+            className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#f9844a] via-[#f9c74f] to-[#90be6d] p-1 text-white duration-100 hover:scale-105"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -35,7 +35,7 @@ const Projects: NextComponentType = () => {
 
         <Link href="https://github.com/Mawdac/sm-theme-megapixels/tree/patch-2" passHref>
           <a
-            className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#FDE68A] via-[#FCA5A5] to-[#FECACA] p-1 text-white duration-100 hover:scale-105"
+            className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#43aa8b] via-[#4d908e] to-[#277da1] p-1 text-white duration-100 hover:scale-105"
             target="_blank"
             rel="noopener noreferrer"
           >
