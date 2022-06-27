@@ -33,7 +33,7 @@ const Skills = () => {
 
       <p className="text-lg font-medium text-slate-300">
         ...more skills include <span className="text-white">git</span>,{" "}
-        <span className="text-white">frisbees</span>,{" "}
+        <span className="text-white">electric bass</span>,{" "}
         <span className="text-white">gaming warlord</span>{" "}
       </p>
     </div>
