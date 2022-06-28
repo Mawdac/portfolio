@@ -15,8 +15,8 @@ const About: NextComponentType = () => {
         </p>
 
         <p className="mt-4 text-gray-400">
-          making dev easier and throwing <br />
-          plastic circles in the woods. 🥏
+          learning to making dev lives easier and <br /> 
+          throwing plastic circles in the woods. 🥏
         </p>
 
         {/* <Link href="https://maddawik.hashnode.dev/" passHref>
